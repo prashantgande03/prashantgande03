@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @prashantgande03
-- 👀 I’m interested in web development,java 
+- 👀 I’m interested in making intaractive webpages
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on open source 
